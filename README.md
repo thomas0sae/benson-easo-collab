@@ -1,2 +1,2 @@
 # benson-easo-collab
-Git learning
+Git learning with Benson
